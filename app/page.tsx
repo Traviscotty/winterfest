@@ -41,7 +41,7 @@ export default function dashboard() {
     <button
       className="px-7 py-3 bg-blue-500 text-white font-semibold rounded-lg hover:bg-blue-600 hover:scale-105 transition duration-300 focus:outline-none"
     >
-      Mehr erfahren
+      Weitere Informationen
     </button>
     </Link>
   </div>
@@ -52,7 +52,7 @@ export default function dashboard() {
   <div className="col-start-1 col-end-4 bg-slate-100  relative"
   >
         <Image
-          src="/flur.jpg" // Pfad zu deinem Bild
+          src="/dsa.jpg" // Pfad zu deinem Bild
           alt="Bildbeschreibung 01"
           className="object-cover"
           fill
@@ -81,7 +81,7 @@ export default function dashboard() {
   <div className="col-start-1 col-end-4 bg-slate-100  relative"
   >
         <Image
-          src="/ok.jpg" // Pfad zu deinem Bild
+          src="/.jpg" // Pfad zu deinem Bild
           alt="Bildbeschreibung 01"
           className="object-cover"
           fill
