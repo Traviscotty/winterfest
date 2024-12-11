@@ -49,10 +49,10 @@ export default function dashboard() {
 
 
 
-  <div className="col-start-1 col-end-4 bg-slate-100  relative"
+  <div className="col-start-1 col-end-7 bg-slate-100  relative"
   >
         <Image
-          src="/dsa.jpg" // Pfad zu deinem Bild
+          src="/schule.jpg" // Pfad zu deinem Bild
           alt="Bildbeschreibung 01"
           className="object-cover"
           fill
@@ -62,48 +62,7 @@ export default function dashboard() {
           }}
         />
   </div>
-  <div className="col-end-7 col-span-3 bg-slate-100  relative"
-  >
-      <Image
-          src="/ok.jpg" // Pfad zu deinem Bild
-          alt="Bildbeschreibung 01"
-          className=" object-cover"
-          fill
-          sizes="100vw"
-          style={{
-            objectFit: 'cover', // cover, contain, none
-          }}
-        />    
-  </div>
-
-
-
-  <div className="col-start-1 col-end-4 bg-slate-100  relative"
-  >
-        <Image
-          src="/.jpg" // Pfad zu deinem Bild
-          alt="Bildbeschreibung 01"
-          className="object-cover"
-          fill
-          sizes="100vw"
-          style={{
-            objectFit: 'cover', // cover, contain, none
-          }}
-        />
-  </div>
-  <div className="col-end-7 col-span-3 bg-slate-100  relative"
-  >
-      <Image
-          src="/flur.jpg" // Pfad zu deinem Bild
-          alt="Bildbeschreibung 01"
-          className=" object-cover"
-          fill
-          sizes="100vw"
-          style={{
-            objectFit: 'cover', // cover, contain, none
-          }}
-        />    
-  </div>
+  
 
 
 
