@@ -24,7 +24,7 @@ export default function Home() {
       </div>
       
       <div className="col-span-2 bg-blue-500">
-        01
+        
         <Image
           src="/ok.jpg" // Pfad zu deinem Bild
           width={800}
@@ -37,7 +37,7 @@ export default function Home() {
         <h1 className="pl-40 underline italic font-bold">Informationen</h1>
         <p className="pl-3  italic font-bold text-2xl"> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
       </div>
-      <div className="bg-white">03
+      <div className="bg-white">
       <p className='pl-3 italic font-bold text-2xl'> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
     
       </div>
@@ -52,7 +52,7 @@ export default function Home() {
         />
       </div>
       <div className="col-span-2 bg-blue-500">
-        05
+        
         <Image
           src="/ok.jpg" // Pfad zu deinem Bild
           width={800}
@@ -61,10 +61,10 @@ export default function Home() {
           className="pl-4"
         />
       </div>
-      <div className="bg-white">06</div>
-      <div className=" bg-white ">07</div>
+      <div className="bg-white"></div>
+      <div className=" bg-white "></div>
       <div className="col-span-2 bg-blue-500">
-        08{' '}
+        {' '}
         <Image
           src="/flur.jpg" // Pfad zu deinem Bild
           width={800}
@@ -74,7 +74,7 @@ export default function Home() {
         />
       </div>
       <div className="col-span-2 bg-blue-500 ">
-        09
+        
         <Image
           src="/ok.jpg" // Pfad zu deinem Bild
           width={800}
@@ -83,10 +83,10 @@ export default function Home() {
           className="pl-4"
         />
       </div>
-      <div className=" bg-white">10</div>
-      <div className=" bg-white ">11</div>
+      <div className=" bg-white"></div>
+      <div className=" bg-white "></div>
       <div className="col-span-2 bg-blue-500 ">
-        12
+        
         <Image
           src="/flur.jpg" // Pfad zu deinem Bild
           width={800}
