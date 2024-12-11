@@ -8,7 +8,7 @@ export default function dashboard() {
 
 <div>
 
-<div className="grid grid-cols-6 gap-0 h-full min-h-screen bg-zinc-300 ">
+<div className="grid grid-cols-6 gap-0 min-h-screen bg-zinc-300 ">
   <div className="col-start-1 col-span-2 bg-white " 
   style={{ backgroundImage: "url('/schneeflocken.jpg')" }}
   >
