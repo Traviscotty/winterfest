@@ -106,7 +106,7 @@ Grillen im Winter hat etwas Magisches  die Mischung aus frostiger Kälte, wärme
       <div className=" bg-white ">
 
      <h1 className='font-bold pl-20 underline italic text-blue-400 text-xl'> Weihnachtsdekoration</h1>
-     <p className='pl-3 italic font-bold text-xl'>Die Vorweihnachtszeit ist eine der schönsten und stimmungsvollsten Zeiten des Jahres. Auch in der Schule sorgt die liebevoll gestaltete Weihnachtsdekoration für eine gemütliche und festliche Atmosphäre. Gemeinsam mit den Kindern werden Klassenzimmer, Flure und sogar der Schulhof weihnachtlich geschmückt.</p>
+     <p className='pl-3 italic font-bold text-2xl'>Die Vorweihnachtszeit ist eine der schönsten und stimmungsvollsten Zeiten des Jahres. Auch in der Schule sorgt die liebevoll gestaltete Weihnachtsdekoration für eine gemütliche und festliche Atmosphäre. Gemeinsam mit den Kindern werden Klassenzimmer, Flure und sogar der Schulhof weihnachtlich geschmückt.</p>
 
       </div>
       <div className="col-span-2 bg-blue-400 ">
