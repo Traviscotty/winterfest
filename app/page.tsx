@@ -21,7 +21,7 @@ export default function dashboard() {
           className="pl-1 pt-1"
           
         />
-    <h1 className='text-center text-4xl pt-1 underline text-bold italic'>Schuljahr 2023-2024</h1>
+    <h1 className='text-center text-4xl pt-1 underline text-bold italic'>Schuljahr 2024</h1>
 </div>
 
 
@@ -52,7 +52,7 @@ export default function dashboard() {
   <div className="col-start-1 col-end-7 bg-slate-100  relative"
   >
         <Image
-          src="/schule.jpg" // Pfad zu deinem Bild
+          src="/schulestubi.jpg" // Pfad zu deinem Bild
           alt="Bildbeschreibung 01"
           className="object-cover"
           fill
