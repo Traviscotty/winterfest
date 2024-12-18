@@ -34,13 +34,13 @@ export default function Home() {
         />
       </div>
       <div className="bg-white">
-        <h1 className="pl-20  underline italic font-bold text-blue-400">Gemeinsames Basteln</h1>
+        <h1 className="pl-20  underline italic font-bold text-blue-400 text-xl">Gemeinsames Basteln</h1>
         <p className="pl-3  italic font-bold text-2xl">Auf diesem Bild sieht ihr eine kreative Bastelrunde, die für Kinder viel Freude bereitet. Gemeinsam sitzen sie an einem Tisch, um mit buntem Papier, Scheren, Klebstoff und weiteren Materialien zu werken. Die Kinder konzentrieren sich voll und ganz auf ihre Bastelarbeiten, während die Erwachsenen helfend zur Seite stehen und sie anleiten.
 
 Solche Bastelaktionen fördern nicht nur die Feinmotorik und Kreativität der Kinder, sondern schaffen auch ein Gefühl von Gemeinschaft und Teamarbeit. Die Vielfalt an Materialien, wie Papier in unterschiedlichen Farben und Formen, lässt der Fantasie freien Lauf. Nebenbei entsteht eine entspannte Atmosphäre, in der alle Beteiligten miteinander interagieren, voneinander lernen und gemeinsam etwas Schönes gestalten.</p>
       </div>
       <div className="bg-white">
-        <h1 className="font-bold italic underline pl-20 text-blue-400">Grillen auf dem Winterfest</h1>
+        <h1 className="font-bold italic underline pl-20 text-blue-400 text-xl">Grillen auf dem Winterfest</h1>
       <p className='pl-3 italic font-bold text-2xl'> Grillen gehört für viele zu den warmen Sommermonaten, doch auch im Winter hat es eine ganz besondere stimmung vor allem auf einem Winterfest. Die kalte Luft, der Duft von Gegrilltem und die warme Glut des Grills schaffen eine gemütliche Atmosphäre, die alle Besucher zusammenbringt.
 
 während sich viele um den Grill versammeln, brutzeln Würstchen, Fleischspieße oder sogar vegetarische Leckereien über dem Feuer. Ein Grillmeister sorgt dafür, dass alles perfekt geart ist, während die Gäste sich freuen und die Gesellige Stimmung genießen.
@@ -68,12 +68,12 @@ Grillen im Winter hat etwas Magisches  die Mischung aus frostiger Kälte, wärme
         />
       </div>
       <div className="bg-white">
-       <h1 className='font-bold pl-20 underline italic text-blue-400'>Musik auf der Bühne </h1>
+       <h1 className='font-bold pl-20 underline italic text-blue-400 text-xl'>Musik auf der Bühne </h1>
       <p className='pl-3 italic font-bold text-2xl'>Das Winterfest der Schule ist jedes Jahr ein besonderes Highlight für Schüler, Lehrer und Eltern. Ein besonders stimmungsvoller Moment entsteht, wenn die Bühne zum Leben erwacht und die Musik die Halle erfüllt. Die Schüler präsentieren voller Begeisterung, was sie in den letzten Wochen und Monaten vorbereitet haben. Klavier, Trommeln insBesonders schön ist es zu sehen, wie die Schüler selbstbewusst und voller Freude auf der Bühne stehen und ihre Talente präsentieren. </p>
 
       </div>
       <div className=" bg-white ">
-      <h1 className='font-bold pl-20 underline italic text-blue-400'>Towers Camp </h1>
+      <h1 className='font-bold pl-20 underline italic text-blue-400 text-xl'>Towers Camp </h1>
      <p className='pl-3 italic font-bold text-2xl'>Das Towers Camp bringt Basketballspaß direkt in die Schule und begeistert Schüler mit dem Ziel, so viele Körbe wie möglich zu werfen. Egal ob Anfänger oder erfahrene Spieler  beim Körbewerfen steht die Freude am Basketball im Mittelpunkt. Unter der Anleitung von engagierten Lehrer/Lehrerinnen haben die Schüler die Möglichkeit, ihre Wurftechnik zu verbessern. </p>
 
 
@@ -99,14 +99,14 @@ Grillen im Winter hat etwas Magisches  die Mischung aus frostiger Kälte, wärme
         />
       </div>
       <div className=" bg-white">
-     <h1 className='font-bold pl-20 underline italic text-blue-400'> Kreatives Bauen   </h1>
+     <h1 className='font-bold pl-20 underline italic text-blue-400 text-xl'> Kreatives Bauen   </h1>
      <p className='pl-3 italic font-bold text-2xl'> Beim kreativen Bauprojekt in der Schule hatten die Kinder die Möglichkeit, ihrer Fantasie freien Lauf zu lassen und kleine Häuser aus Bastelstäbchen zu bauen. Mit viel Geduld, Geschick und einer großen Portion Teamarbeit entstanden beeindruckende kleine Bauwerke, die alle begeisterten.</p>
 
       </div>
       <div className=" bg-white ">
 
-     <h1 className='font-bold pl-20 underline italic text-blue-400'> Weihnachtsdekoration</h1>
-     <p className='pl-3 italic font-bold text-2xl'>Die Vorweihnachtszeit ist eine der schönsten und stimmungsvollsten Zeiten des Jahres. Auch in der Schule sorgt die liebevoll gestaltete Weihnachtsdekoration für eine gemütliche und festliche Atmosphäre. Gemeinsam mit den Kindern werden Klassenzimmer, Flure und sogar der Schulhof weihnachtlich geschmückt.</p>
+     <h1 className='font-bold pl-20 underline italic text-blue-400 text-xl'> Weihnachtsdekoration</h1>
+     <p className='pl-3 italic font-bold text-xl'>Die Vorweihnachtszeit ist eine der schönsten und stimmungsvollsten Zeiten des Jahres. Auch in der Schule sorgt die liebevoll gestaltete Weihnachtsdekoration für eine gemütliche und festliche Atmosphäre. Gemeinsam mit den Kindern werden Klassenzimmer, Flure und sogar der Schulhof weihnachtlich geschmückt.</p>
 
       </div>
       <div className="col-span-2 bg-blue-400 ">
